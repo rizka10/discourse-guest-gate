@@ -1,0 +1,9 @@
+fi:
+  js:
+    guest_gate:
+      modal:
+        title: "Miksi minun pitää kirjautua?"
+        sign_up_email: "Liity sähköpostilla"
+        sign_up: "Liity"
+        log_in: "Minulla on jo tunnus"
+        or: "tai"
